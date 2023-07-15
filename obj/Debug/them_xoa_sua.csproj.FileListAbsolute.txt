@@ -1,0 +1,11 @@
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\bin\Debug\baiHoc_15-07.exe.config
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\bin\Debug\baiHoc_15-07.exe
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\bin\Debug\baiHoc_15-07.pdb
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\obj\Debug\them_xoa_sua.csproj.AssemblyReference.cache
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\obj\Debug\them_xoa_sua.csproj.SuggestedBindingRedirects.cache
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\obj\Debug\baiHoc_15_07.baihoc15_07.resources
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\obj\Debug\baiHoc_15_07.Properties.Resources.resources
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\obj\Debug\them_xoa_sua.csproj.GenerateResource.cache
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\obj\Debug\them_xoa_sua.csproj.CoreCompileInputs.cache
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\obj\Debug\baiHoc_15-07.exe
+D:\LAP-TRINH-3\baihoc-15-07-2023\baiHoc_15-07\obj\Debug\baiHoc_15-07.pdb
